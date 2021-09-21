@@ -1,2 +1,2 @@
 # bookstore_users-api
-Users API was created this API was created based in the course How to design & develop REST microservices in Golang (GO)
+Users API was created based in the course How to design & develop REST microservices in Golang (GO)
